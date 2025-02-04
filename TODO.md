@@ -1,0 +1,4 @@
+- C with inline assembly
+- Call C code from assembly
+- Call assembly code from C
+- Write an assembly program that calls libc functions like printf
