@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo.png" alt="sandbox-x86asm" width="512"/>
 
-  **🔧 Playground for x86 and x64 assembly programming with NASM**
+  **🔧 Playground for x86 and x64 assembly programming with NASM 💻**
 
 </div>
 
