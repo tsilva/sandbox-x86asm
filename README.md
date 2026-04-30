@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-x86asm" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-x86asm/main/logo.png" alt="sandbox-x86asm" width="512"/>
 
   **🔧 Playground for x86 and x64 assembly programming with NASM 💻**
 
