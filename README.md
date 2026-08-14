@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-x86asm/main/logo.png" alt="sandbox-x86asm" width="512"/>
 
