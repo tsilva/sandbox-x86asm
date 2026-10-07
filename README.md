@@ -1,12 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-x86asm/main/logo.png" alt="sandbox-x86asm" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🔧 Playground for x86 and x64 assembly programming with NASM 💻</strong>
+  <!-- repo-tagline:end -->
+</p>
+
 > [!NOTE]
 > This repository exists only for experimentation and is currently archived.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tsilva/sandbox-x86asm/main/logo.png" alt="sandbox-x86asm" width="512"/>
-
-  **🔧 Playground for x86 and x64 assembly programming with NASM 💻**
-
-</div>
 
 ## Overview
 
